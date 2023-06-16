@@ -6,20 +6,20 @@
         padding:0;
         border:0;
        }
-       .head-container{
+       .block-heading{
         padding: 30px;
         display: flex;
         flex-direction: column;
         align-items: center;
         background-color: rgba(230, 230, 230, 0.5);
        }
-       .head-container>p{
+       .block-heading>p{
         width: 50%;
         margin: 10px;
         text-align: center;
         color: grey;
        }
-       .head-container>h3{
+       .block-heading>h2{
         color:#3b99e0;
        }
 
@@ -57,7 +57,7 @@
        .lpq h3{
         align-self: center;
        }
-       .main-container{
+       .container{
         display: flex;
         justify-content: center;
         align-items: flex-start;
